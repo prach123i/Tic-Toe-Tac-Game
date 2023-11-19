@@ -1,0 +1,8 @@
+body{
+  background-color: antiquewhite;
+  color: black;
+  background-image: url(${./img/tic-toc.jpeg});
+}
+.status{
+  color: black;
+}
